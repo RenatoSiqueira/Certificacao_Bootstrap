@@ -1,0 +1,23 @@
+{
+  "name": "workflow",
+  "version": "1.0.0",
+  "description": "Desafio 1 - Certificacao Bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "aula",
+    "curso",
+    "desafio",
+    "workflow"
+  ],
+  "author": "Renato Siqueira",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^3.0.0"
+  }
+}
