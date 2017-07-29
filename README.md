@@ -36,7 +36,17 @@ Atividade Prática nº 1 do curso de [Certificação Bootstrap](http://www.certi
     - [Gulp-Sass](https://www.npmjs.com/package/gulp-sass/)
     [![Github-Release](https://img.shields.io/github/release/dlmanning/gulp-sass.svg)](https://github.com/dlmanning/gulp-sass/releases)
 
-- ### Arquivo: gulpfile.js ###
+- ### Outros Comandos ###
+    - #### Comando: ```$ gulp gerar-css``` ####
+    - Descrição: SASS->CSS [Conversão,Minificação,Alteração de Nome,Salvar]
+
+    - #### Comando: ```$ gulp gerar-html``` ####
+    - Descrição: // HTML->HTML [Minificação,Salvar]
+
+    - #### Comando: ```$ gulp monitor``` ####
+    - Descrição: Inicia em background os observadores das pastas Source/scss/*.scss e Source/*.html
+
+- ### Arquivo Completo: gulpfile.js ###
 ```javascript
 var gulp = require('gulp');
 var sass = require('gulp-sass');
