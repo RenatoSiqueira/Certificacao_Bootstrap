@@ -7,6 +7,7 @@ Atividade Prática nº 1 do curso de [Certificação Bootstrap](http://www.certi
 ### Exercício Proposto: ###
 1. Compilar e minificar arquivos scss para css no diretório solicitado
 2. Minificar o html e salvar no diretório solicitado
+
 **Observação Adicional Obrigatória:** Criação de um watch para monitoramento/execução automática dos comandos.
 
 - ### Iniciando ###
