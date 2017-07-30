@@ -17,6 +17,7 @@
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-mini-css": "0.0.3",
+    "gulp-minify-html-2": "^1.0.0",
     "gulp-sass": "^3.1.0"
   }
 }
