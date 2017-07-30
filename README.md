@@ -50,7 +50,7 @@ Atividade Prática nº 1 do curso de [Certificação Bootstrap](http://www.certi
     - Descrição: SASS->CSS [Conversão,Minificação,Alteração de Nome,Salvar]
 
     - #### Comando: ```$ gulp gerar-html``` ####
-    - Descrição: // HTML->HTML [Minificação,Salvar]
+    - Descrição: HTML->HTML [Minificação,Salvar]
 
     - #### Comando: ```$ gulp monitor``` ####
     - Descrição: Inicia em background os observadores das pastas Source/scss/\*.scss e Source/\*.html
