@@ -23,9 +23,9 @@ Atividade Prática nº 1 do curso de [Certificação Bootstrap](http://www.certi
         - ```$ gulp```
 
     - **Caso deseje, altere o nome do arquivo final**
-        -```javascript
-        var nomeCSS = 'template.css'
-        ```
+        - ```var nomeCSS = 'template.css'```
+    Obs: Será adicionada a extensão .min.css
+
 
 - ### Pré-Requisitos ###
     - [NodeJs](https://nodejs.org/en/download/)
@@ -43,8 +43,7 @@ Atividade Prática nº 1 do curso de [Certificação Bootstrap](http://www.certi
     - [Gulp-Sass](https://www.npmjs.com/package/gulp-sass/)
     [![Github-Release](https://img.shields.io/github/release/dlmanning/gulp-sass.svg)](https://github.com/dlmanning/gulp-sass/releases)
     - [Gulp-minify-html-2](https://www.npmjs.com/package/gulp-minify-html-2/)
-    - [Gulp-concat](https://www.npmjs.com/package/gulp-concat/)
-    [![Github-Release](https://img.shields.io/github/release/contra/gulp-concat.svg)]
+    - [Gulp-concat](https://www.npmjs.com/package/gulp-concat/)    
 
 - ### Outros Comandos ###
     - #### Comando: ```$ gulp gerar-css``` ####
